@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mermail-guard": {
+      "command": "./target/release/mermail_guard",
+      "args": [],
+      "env": {
+        "RUST_LOG": "info"
+      }
+    }
+  }
+}
